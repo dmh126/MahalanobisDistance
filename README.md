@@ -34,7 +34,7 @@ Test data
 *Find areas closest to the ideal conditions: temperature=18, precipitation=110*
 ![enter image description here](http://i.imgur.com/4jf5FxY.png)
 
-*Result*
+*Result                       *
 ![enter image description here](http://i.imgur.com/abuqduA.png)
 
 *Green areas are closest to the ideal landscape.*
