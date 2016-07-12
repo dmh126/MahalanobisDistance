@@ -3,6 +3,7 @@
 QGIS Plugin. Calculates distance that indicates which regions in a landscape are most similar to some ideal landscape. More about mahalanobis distance: http://www.jennessent.com/arcview/mahalanobis_description.htm
 
 **License:**
+
 Copyright (C) MahalanobisDistance, Author: Damian Harasymczuk
 
 This program is free software; you can redistribute it and/or
@@ -36,5 +37,5 @@ Test data
 *Result*
 ![enter image description here](http://i.imgur.com/abuqduA.png)
 
-Green areas are closest to the ideal landscape.
+*Green areas are closest to the ideal landscape.*
 ![enter image description here](http://i.imgur.com/jnuFfXt.png)
