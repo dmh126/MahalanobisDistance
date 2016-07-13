@@ -24,12 +24,21 @@
 import os
 
 from PyQt4 import QtGui, uic
+<<<<<<< HEAD
 from mahalanobis_distance_dialog_base import Ui_MahalanobisDistanceDialogBase
 #FORM_CLASS, _ = uic.loadUiType(os.path.join(
 #    os.path.dirname(__file__), 'mahalanobis_distance_dialog_base.ui'))
 
 
 class MahalanobisDistanceDialog(QtGui.QDialog, Ui_MahalanobisDistanceDialogBase):
+=======
+
+FORM_CLASS, _ = uic.loadUiType(os.path.join(
+    os.path.dirname(__file__), 'mahalanobis_distance_dialog_base.ui'))
+
+
+class MahalanobisDistanceDialog(QtGui.QDialog, FORM_CLASS):
+>>>>>>> a121f8a9e46fb5f9963d92e10881bb92270438fb
     def __init__(self, parent=None):
         """Constructor."""
         super(MahalanobisDistanceDialog, self).__init__(parent)
