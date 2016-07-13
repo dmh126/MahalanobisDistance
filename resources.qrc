@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/MahalanobisDistance" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
