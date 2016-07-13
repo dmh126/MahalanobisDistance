@@ -13,7 +13,14 @@ description=Calculates Mahalanobis distance
 version=1.0
 author=Damian Michal Harasymczuk
 email=d.harasymczuk@gmail.com
+<<<<<<< HEAD
 about=Calculates distance that indicates which regions in a landscape are most similar to some ideal landscape
+=======
+<<<<<<< HEAD
+about=Calculates distance that indicates which regions in a landscape are most similar to some ideal landscape
+=======
+>>>>>>> a121f8a9e46fb5f9963d92e10881bb92270438fb
+>>>>>>> 4cbec1042da057b49e239cfd8bb310db0054b1d6
 
 # End of mandatory metadata
 
@@ -25,9 +32,21 @@ about=Calculates distance that indicates which regions in a landscape are most s
 # Tags are comma separated with spaces allowed
 tags=raster, distance, mahalanobis, similarity
 
+<<<<<<< HEAD
 homepage=https://github.com/dmh126/MahalanobisDistance
 tracker=https://github.com/dmh126/MahalanobisDistance/issues
 repository=https://github.com/dmh126/MahalanobisDistance
+=======
+<<<<<<< HEAD
+homepage=https://github.com/dmh126/MahalanobisDistance
+tracker=https://github.com/dmh126/MahalanobisDistance/issues
+repository=https://github.com/dmh126/MahalanobisDistance
+=======
+homepage=
+tracker=
+repository=
+>>>>>>> a121f8a9e46fb5f9963d92e10881bb92270438fb
+>>>>>>> 4cbec1042da057b49e239cfd8bb310db0054b1d6
 category=Raster
 icon=icon.png
 # experimental flag
